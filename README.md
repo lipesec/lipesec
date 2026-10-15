@@ -23,22 +23,22 @@
 
 <h1 align="center">Hey there 👋, I'm Fellipe Dutra</h1>
 
-<h3 align="center">Cybersecurity Student | Future Pentester</h3>
+<h3 align="center">Cybersecurity and Cloud</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student based in Portugal 🇵🇹** with a strong interest in **Cybersecurity**, **Threat Detection**, and **Ethical Hacking**.
+I'm a **Computer Engineer recently graduated based in Portugal 🇵🇹** with a strong interest in **Cybersecurity**, **Threat Detection**, and **Cloud Security**.
 
 Currently building practical cybersecurity skills through:
 
 - 🧪 **Security labs and CTF platforms**
 - 🐧 **Linux and networking practice**
 - 🐍 **Python scripting for security automation**
-- 🔐 **Web security fundamentals (OWASP Top 10)**
+- 🔐 **Cloud Concepts (AWS/Azure)**
 
-🎯 **Goal:** Start my career as a **SOC Analyst / Junior Cybersecurity Analyst** and continue growing towards **penetration testing and security research**.
+🎯 **Goal:** Build my career as a **DevOps / Cybersecurity Analyst** and continue growing towards **cloud security and threat hunting**.
 
 ---
 
@@ -46,20 +46,21 @@ Currently building practical cybersecurity skills through:
 
 Hands-on learning through practical platforms:
 
-- TryHackMe labs and learning paths  
+- TryHackMe: Security Path   
 - Hack The Box beginner machines  
-- Personal cybersecurity **home lab environment**
+- Personal cybersecurity **home lab environment soon**
 
 Current focus:
 
 - Linux system usage
-- Network enumeration and scanning
-- Web vulnerability basics
-- Security tooling and automation
+- Privilege Escalation
+- Web vulnerability
+- Cloud Concepts
+- CI/CD Implementation
 
 ---
 
-## 🖥️ Cybersecurity Home Lab
+## 🖥️ Cybersecurity Home Lab (soon)
 
 Personal lab used to practice offensive and defensive security techniques.
 
@@ -82,11 +83,12 @@ Tools frequently used:
 ## 🔐 Cybersecurity Skills
 
 - Linux command line usage
-- Network fundamentals (TCP/IP, DNS, HTTP)
+- Cyber Threat Intelligence
 - Traffic analysis with Wireshark
-- Vulnerability scanning and enumeration
 - Web vulnerability basics (OWASP Top 10)
 - Python scripting for security tasks
+- Cloud Security basics
+
 
 ---
 
